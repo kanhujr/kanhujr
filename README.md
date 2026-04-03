@@ -37,10 +37,9 @@
 </div>
 
 ###
-
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=kanhujr&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+<div align="left>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kanhujr&locale=en&mode=daily&theme=radical&card_width=500" alt="GitHub Streak" /></a>
+  </div>
 
 
 ###
